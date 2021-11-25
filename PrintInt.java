@@ -12,6 +12,8 @@ public class PrintInt {
 		int ar[]= new int[]{ 1 ,2 ,3 ,4};
 		System.out.println(sum1(ar, 0));
 		print(a);
+		
+		System.out.println(a);
 	}
 
  static void print(int n){
